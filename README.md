@@ -1,2 +1,2 @@
-# bicep-practical-workshops
+# Bicep practical workshops
 Workshop reference materials
